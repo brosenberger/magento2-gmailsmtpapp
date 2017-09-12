@@ -8,7 +8,7 @@
         "magento2 email",
         "Amazon Simple Email Service",
         "Amazon SES"
-    ]
+    ],
     "type": "magento2-module",
     "version": "1.4.5",
     "license": [
